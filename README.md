@@ -1,6 +1,3 @@
-Sure, here's a comprehensive README file for SkillHub:
-
----
 
 # SkillHub
 
@@ -26,7 +23,9 @@ SkillHub is an e-learning platform designed to provide a seamless learning exper
 
 ### Prerequisites
 
-- Node.js and npm installed on your machine.
+- Node.js and npm installed on your computer.
+- Local terminal
+- HTML, CSS and Javascript
 
 ### Installation
 
