@@ -4,7 +4,7 @@
 SkillHub is an e-learning platform designed to provide a seamless learning experience for users across various domains. Whether you're a student, a professional looking to basic computer upskill, or an organization seeking to train your employees, SkillHub offers a diverse range of digital computing courses to cater to your learning needs.
 
 ## Direct access link
-Click here to access the site: [](https://iranziprince01.github.io/SkillHub/)
+Click here to access the site: [SkillHub - Platform](https://iranziprince01.github.io/SkillHub/)
 
 ## Features
 
